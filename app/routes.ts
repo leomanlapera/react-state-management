@@ -5,4 +5,5 @@ export default [
   route("context", "routes/context.tsx"),
   route("context-reducer", "routes/context-reducer.tsx"),
   route("theme-switcher", "routes/theme-switcher.tsx"),
+  route("shopping-cart", "routes/shopping-cart.tsx"),
 ] satisfies RouteConfig;
