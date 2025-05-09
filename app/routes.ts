@@ -4,4 +4,5 @@ export default [
   index("routes/home.tsx"),
   route("context", "routes/context.tsx"),
   route("context-reducer", "routes/context-reducer.tsx"),
+  route("theme-switcher", "routes/theme-switcher.tsx"),
 ] satisfies RouteConfig;
